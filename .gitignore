@@ -1,0 +1,9 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+users.db
+_uploaded_video_temp.mp4
+*.pt
+.streamlit/secrets.toml
