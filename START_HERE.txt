@@ -1,0 +1,15 @@
+ROADVISION AI — START HERE
+
+1. Extract the ZIP.
+2. Open the folder in VS Code.
+3. Use Python 3.10 or 3.11.
+4. In the terminal run:
+   py -3.11 -m venv .venv
+   .\.venv\Scripts\Activate.ps1
+   pip install -r requirements.txt
+   streamlit run app.py
+5. Open http://localhost:8501
+6. Create an account, sign in, and test Image detection first.
+
+If you get an error, copy the full red error text or send a screenshot.
+The first model run needs internet to download YOLO weights.
